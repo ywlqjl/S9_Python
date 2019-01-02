@@ -1,0 +1,16 @@
+<parametres nombre="2" iteration="100000">
+<fourmis>
+   <couleur_deposee>192, 0, 255</couleur_deposee>
+   <couleur_suivi>255, 155, 3</couleur_suivi>
+   <proba>0.04,0.95,0.01</proba>
+   <type>0</type>  <!-- 0 => Do, 1 =>Dd  -->
+   <proba_suivi>0.78</proba_suivi>
+</fourmis>
+<fourmis>
+   <couleur_deposee>255, 155, 3</couleur_deposee>
+   <couleur_suivi>76,68,181</couleur_suivi>
+   <proba>0.01,0.98,0.01</proba>
+   <type>1</type>  <!-- 0 => Do, 1 =>Dd  -->
+   <proba_suivi>0.90</proba_suivi>
+</fourmis>
+</parametres>
